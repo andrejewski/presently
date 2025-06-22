@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Presently",
   "description": "Simple new tab with current time.",
   "author": "Chris Andrejewski",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "chrome_url_overrides": {
     "newtab": "new-tab.html"
   },
